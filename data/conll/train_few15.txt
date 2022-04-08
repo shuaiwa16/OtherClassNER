@@ -1,0 +1,7 @@
+1824	O
+-	O
+Anton	B-PER
+Bruckner	I-PER
+born	O
+.	O
+

@@ -1,0 +1,7 @@
+-	O
+1	O
+John	B-PER
+Cook	I-PER
+through	O
+5	O
+

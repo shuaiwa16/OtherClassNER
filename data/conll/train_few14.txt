@@ -1,0 +1,14 @@
+John	B-PER
+Kerry	I-PER
+,	O
+even	O
+though	O
+she	O
+is	O
+n't	O
+old	O
+enough	O
+to	O
+vote	O
+.	O
+

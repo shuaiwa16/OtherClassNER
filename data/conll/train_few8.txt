@@ -1,0 +1,64 @@
+Brunswijk	B-PER
+,	O
+35	O
+,	O
+denied	O
+the	O
+charges	O
+and	O
+said	O
+he	O
+had	O
+merely	O
+defended	O
+himself	O
+when	O
+Pinas	B-PER
+attacked	O
+him	O
+with	O
+a	O
+bottle	O
+.	O
+
+5.	O
+Capiot	B-PER
+5	O
+
+Wasim	B-PER
+Akram	I-PER
+st	O
+Stewart	B-PER
+b	O
+Croft	B-PER
+40	O
+
+Containment	O
+of	O
+the	O
+fire	O
+has	O
+been	O
+difficult	O
+because	O
+of	O
+the	O
+hot	O
+,	O
+arid	O
+,	O
+windy	O
+weather	O
+in	O
+the	O
+region	O
+,	O
+Conroy	B-PER
+said	O
+.	O
+
+5.	O
+Van	B-PER
+Doorn	I-PER
+24	O
+

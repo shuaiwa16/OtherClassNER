@@ -1,0 +1,55 @@
+Cynthia	B-PER
+McKinney	I-PER
+said	O
+:	O
+"	O
+You	O
+make	O
+your	O
+moral	O
+decisions	O
+.	O
+
+M.	B-PER
+Alleyne	I-PER
+4-80	O
+)	O
+.	O
+
+Bedie	B-PER
+pardoned	O
+two	O
+other	O
+journalists	O
+jailed	O
+for	O
+incitement	O
+to	O
+disturb	O
+public	O
+order	O
+.	O
+
+declared	O
+(	O
+G.	B-PER
+Gooch	I-PER
+111	O
+,	O
+R.	B-PER
+Irani	I-PER
+91	O
+,	O
+P.	B-PER
+Prichard	I-PER
+88	O
+,	O
+D.	B-PER
+Robinson	I-PER
+72	O
+;	O
+
+Michael	B-PER
+Schumacher	I-PER
+of	O
+

@@ -1,0 +1,8 @@
+281	O
+John	B-PER
+Cook	I-PER
+70	O
+69	O
+71	O
+71	O
+

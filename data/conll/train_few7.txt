@@ -1,0 +1,45 @@
+Alastair	B-PER
+Macdonald	I-PER
+
+"	O
+We	O
+have	O
+suspicions	O
+of	O
+a	O
+rape	O
+,	O
+but	O
+the	O
+police	O
+still	O
+have	O
+to	O
+find	O
+the	O
+victim	O
+,	O
+"	O
+Gajdos	B-PER
+added	O
+.	O
+
+Netanyahu	B-PER
+and	O
+Levy	B-PER
+'s	O
+spokesmen	O
+said	O
+they	O
+could	O
+not	O
+confirm	O
+it	O
+.	O
+
+Edna	B-PER
+Fernandes	I-PER
+
+Gopal	B-PER
+Sharma	I-PER
+

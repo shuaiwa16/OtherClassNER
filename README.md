@@ -13,7 +13,7 @@ Our academic paper which describes MUCO in detail can be found here: https://ton
 6. sh run.sh
 ```
 
-# How do I cite DocEE？
+# How do I cite？
 For now, cite the ACL paper:
 ```
 @article{tong2021learning,
